@@ -62,6 +62,8 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+.idea/
+.mvn/
 
 # Annotation Processing
 .apt_generated/
